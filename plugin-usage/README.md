@@ -1,2 +1,2 @@
-# Plugin usage
+# 插件用法
 
